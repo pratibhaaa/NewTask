@@ -1,0 +1,24 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppPageControlStyle">
+        <!-- To change indicator size -->
+        <item name="apc_indicatorSize">3sp</item>
+        <!-- To change distance between indicators -->
+        <item name="apc_indicatorDistance">4sp</item>
+        <!-- To change current item indicator size -->
+        <item name="apc_currentIndicatorSize">4sp</item>
+        <!-- To change indicator colors -->
+        <item name="apc_colorCurrentDefault">@color/colorPrimaryDark</item>
+        <item name="apc_colorNormalDefault">@color/colorPrimaryDark</item>
+    </style>
+
+
+
+</resources>
